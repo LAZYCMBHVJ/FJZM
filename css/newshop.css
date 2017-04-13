@@ -1,0 +1,28 @@
+.box-banner{
+	/*width: 1920px;*/
+	min-width: 1190px;
+	height: 600px;
+	position: relative;
+}
+.bd .box-banner>a{
+	display: block;
+	width: 1920px;
+	height: 600px;
+	position: absolute;
+	top:0;
+	right: 0;
+}
+.tuijian{
+	height: 222px;
+}
+.nb-list-shop1{
+	height: 390px;
+	position: absolute;
+}
+.nb-list-shop1>a{
+	width: 990px;
+	height: 390px;
+	position: absolute;
+	top:0;
+	left: 25%;
+}
